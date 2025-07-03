@@ -1,0 +1,12 @@
+# Fichiers générés à ignorer
+sdkconfig
+sdkconfig.old
+build/
+*.elf
+*.bin
+*.map
+*.log
+*.pyc
+__pycache__/
+.vscode/
+.env
